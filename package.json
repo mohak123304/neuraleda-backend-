@@ -1,10 +1,8 @@
 {
-  "name": "neuraleda-backend",
-  "version": "1.0.0",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "latest"
+    "express": "^5.2.1"
   }
 }
