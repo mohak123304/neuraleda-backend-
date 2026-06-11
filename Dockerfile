@@ -1,4 +1,5 @@
 FROM python:3.10-slim
+# System standard libraries aur EDA iverilog install karo container me
 RUN apt-get update && apt-get install -y \
     build-essential \
     iverilog \
